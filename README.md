@@ -1,6 +1,10 @@
 # Magnet AXIOM on ARM
 This is a guide to installing and running Magnet AXIOM on Windows ARM architecture, eg to run on an ARM Mac in VMWare Fusion.
 
+<picture>
+<img src="8.2_ARM.png" height="500px">
+</picture>
+
 The vanilla AXIOM installer will in fact complete, but upon running the program will come up with an "**unrecoverable error**".
 
 This is because AXIOM requires certain Visual C++ libraries but Magnet's installer does not support ARM architecture, and therefore does not include ARM versions of these libraries, therefore they must be installed manually. See [Microsoft's Visual C++ Redistributable page](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022) for further details.
