@@ -30,7 +30,7 @@ My successful installation is based on the following hardware and software:
 
 If you plan on updating your ARM installation of AXIOM in the future, please consider following the update instrutctions **from step 5** below which will prevent future updating problems.
 
-## Upgrade AXIOM (eg 8.0 to 8.2)
+## Upgrade AXIOM (eg 8.0 to 8.2, 8.3, 8.4, 8.5)
 
 1) Download and run the **Upgrade installer** from Magnet's [Software & Downloads](https://support.magnetforensics.com/s/magnet-axiom/axiom-software-and-downloads) page (Magnet login required)
 2) Open the installer but **do not rush to click through**!
